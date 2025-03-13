@@ -33,4 +33,7 @@ Este repositório contém uma análise de texto realizada utilizando o serviço 
 
 ## Conclusão
 
-O serviço de Linguagem de IA do Azure demonstrou ser uma ferramenta poderosa para análise de texto, sendo capaz de identificar palavras-chaves, sentimentos e entidades dentro de um documento. Esse tipo de tecnologia pode ser muito útil para diversas aplicações em negócios, pesquisa e automação de processos.
+ O serviço de Linguagem de IA do Azure demonstrou ser uma ferramenta poderosa para análise de texto, sendo capaz de identificar palavras-chaves, sentimentos e entidades dentro de um documento. Esse tipo de tecnologia pode ser muito útil para diversas aplicações em negócios, pesquisa e automação de processos.
+
+### Observação
+Os estudos apresentados são baseados em suposições e no funcionamento geral de ferramentas de IA, como a Linguagem de IA do Azure. As análises foram realizadas com base em testes realizados em outras IAs, já que não foi possível criar uma conta no Azure devido à ausência de uma opção de teste gratuito disponível. Anteriormente, foi utilizado outro teste gratuito em um outro curso, mas, por limitações atuais, os resultados podem não refletir com total precisão as funcionalidades específicas do serviço da Azure.
